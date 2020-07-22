@@ -1,5 +1,5 @@
 # Deep-layer-guided-network-for-salient-object-detection   
-
+by Zhengyi Liu, details are in [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219312809)
 # Code & Results 
 
 
