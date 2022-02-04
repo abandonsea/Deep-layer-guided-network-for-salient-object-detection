@@ -1,5 +1,10 @@
 # Deep-layer-guided-network-for-salient-object-detection   
 by Zhengyi Liu, details are in [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219312809)
+
+链接：https://pan.baidu.com/s/17lGf2Sfzk6aEBskPVKKWNw 
+提取码：zust 
+--来自百度网盘超级会员V1的分享
+
 # Code & Results 
 
 
